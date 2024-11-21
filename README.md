@@ -1,1 +1,3 @@
-List of spamming domains to be used as a black-list in email clients and servers.
+# 🛑  Spammer list
+
+As an owner of a small company, I receive a lot of spam. Here is the list of spam-servers I block.
